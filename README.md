@@ -1,6 +1,6 @@
 # HHRipper - Fap Them All
 
-A Hentai Downloader for [hentaihaven.org](hentaihaven.org)
+A Hentai Downloader for [hentaihaven.org](http://hentaihaven.org)
 
 ## Requirements
 + Install the latest Java from [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
