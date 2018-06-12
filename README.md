@@ -8,6 +8,10 @@ A Hentai Downloader for [hentaihaven.org](http://hentaihaven.org)
 + Download the latest release from [here](https://github.com/rackyman/HHRipper/releases).
 
 ## Usage
+*After downloading the latest release* -  
+**Windows User** - *Use the Launcher.bat file to launch the program.*  
+**Unix User** - *Use the Launcher.sh file to launch the program.*  
+
 **There are two options in the app.**
 1. Let's you paste multiple links of series/episodes you wanna download.
 2. Starts downloads *from the links found* **_in the list.txt file_**
