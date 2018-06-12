@@ -5,7 +5,7 @@ A Hentai Downloader for [hentaihaven.org](http://hentaihaven.org)
 ## Requirements
 + Install the latest Java from [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 + Make sure that java is in your system path. [Tutorial](https://stackoverflow.com/questions/1672281/environment-variables-for-java-installation)
-+ Download the latest release from here.
++ Download the latest release from [here](https://github.com/rackyman/HHRipper/releases).
 
 ## Usage
 **There are two options in the app.**
@@ -42,7 +42,7 @@ overwrite=prompt
 	#eg- 'downloadLocation=D:/Downloads/fap' [WITHOUT THE 's]
 downloadLocation=downloads/
 ```  
-*If you mess up the settings, just delete the app.properties file and run the program to create a deafault properties file.*  
+*If you mess up the settings, just delete the app.properties file and run the program to create a default properties file.*  
 
 ## Contributing
 + Error and Bug Reports are greatly appreciated.
