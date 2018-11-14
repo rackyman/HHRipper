@@ -80,7 +80,7 @@ class HHRipper{
 			System.out.println("Error at extract >>>> "+e);
 		}
 	}
-	//http://hentaihaven.org/ura-jutaijima-episode-1/,http://hentaihaven.org/series/ura-jutaijima/
+	
 	public static void extract_series(String link){
 		try{
 			Document doc = Jsoup.connect(link).get();
